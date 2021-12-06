@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gracekabaghe/react-to-do.git/static/css/main.037b0a1c.chunk.css",
+    "main.js": "/gracekabaghe/react-to-do.git/static/js/main.de6283e0.chunk.js",
+    "main.js.map": "/gracekabaghe/react-to-do.git/static/js/main.de6283e0.chunk.js.map",
+    "runtime-main.js": "/gracekabaghe/react-to-do.git/static/js/runtime-main.c93a2fcd.js",
+    "runtime-main.js.map": "/gracekabaghe/react-to-do.git/static/js/runtime-main.c93a2fcd.js.map",
+    "static/js/2.7c040f9d.chunk.js": "/gracekabaghe/react-to-do.git/static/js/2.7c040f9d.chunk.js",
+    "static/js/2.7c040f9d.chunk.js.map": "/gracekabaghe/react-to-do.git/static/js/2.7c040f9d.chunk.js.map",
+    "index.html": "/gracekabaghe/react-to-do.git/index.html",
+    "static/css/main.037b0a1c.chunk.css.map": "/gracekabaghe/react-to-do.git/static/css/main.037b0a1c.chunk.css.map",
+    "static/js/2.7c040f9d.chunk.js.LICENSE.txt": "/gracekabaghe/react-to-do.git/static/js/2.7c040f9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c93a2fcd.js",
+    "static/js/2.7c040f9d.chunk.js",
+    "static/css/main.037b0a1c.chunk.css",
+    "static/js/main.de6283e0.chunk.js"
+  ]
+}
